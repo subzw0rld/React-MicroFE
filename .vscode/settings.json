@@ -1,0 +1,5 @@
+{
+    "react.beautify.formatter": "esformatter",
+    "html.format.wrapAttributes": "preserve",
+    "editor.formatOnSave": false
+}
